@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
-
+// Vo Thanh Dat - 2500115772
+// So sanh giua Linear Search va Binary Search tren 1 mang 10 trieu phan tu
 class Program
 {
     static void Main()

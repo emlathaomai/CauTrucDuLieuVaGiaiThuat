@@ -1,0 +1,15 @@
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.exe
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.deps.json
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.runtimeconfig.json
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.dll
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.pdb
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.AssemblyInfoInputs.cache
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.AssemblyInfo.cs
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.csproj.CoreCompileInputs.cache
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.sourcelink.json
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.dll
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\refint\DSA_Homework_S3.dll
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.pdb
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.genruntimeconfig.cache
+C:\Users\US\Documents\VLSC\DSA_Homework_S3\obj\Debug\net8.0\ref\DSA_Homework_S3.dll
