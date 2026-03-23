@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
-
+// Vo Thanh Dat - 2500115772 
+// So sanh giua Linear Search va Binary Search tren 1 mang 
 class Program {
     static void Main() {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
@@ -41,3 +42,4 @@ class Program {
         return -1;
     }
 }
+
