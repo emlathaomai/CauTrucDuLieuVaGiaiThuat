@@ -8,18 +8,18 @@ class Program {
         // --- BAI 1: LOI CHAO ---
         Console.WriteLine("----- BÀI 1: LỜI CHÀO THÔNG MINH -----");
         Console.Write("Nhap ho ten: ");
-        string name = Console.ReadLine();
+        string name = Console.ReadLine()!;
         Console.Write("Nhap MSSV: ");
-        string mssv = Console.ReadLine();
+        string mssv = Console.ReadLine()!;
         Console.WriteLine($"Chao mung sinh vien {name} (MS: {mssv}) den voi lop CTDL&GT!");
         Console.WriteLine("------------------------------------------");
 
         // --- BAI 2: MAY TINH CO BAN ---
         Console.WriteLine("----- BÀI 2: MÁY TÍNH CƠ BẢN -----");
         Console.Write("Nhap so a: ");
-        int a = int.Parse(Console.ReadLine());
+        int a = int.Parse(Console.ReadLine()!);
         Console.Write("Nhap so b: ");
-        int b = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine()!);
         Console.WriteLine($"Tong: {a + b}");
         Console.WriteLine($"Hieu: {a - b}");
         Console.WriteLine($"Tich: {a * b}");

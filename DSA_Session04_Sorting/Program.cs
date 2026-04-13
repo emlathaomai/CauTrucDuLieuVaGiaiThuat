@@ -43,7 +43,6 @@ class Program {
     }
 
     //insertion sort
-
     static void InsertionSort(int[] arr)
 {
     int n = arr.Length;
